@@ -31,3 +31,5 @@ https://jio.drmlive.au/jio/bpk-tv/Cartoon_Network_Telugu_MOB/Fallback/index.m3u8
 https://jio.drmlive.au/jio/bpk-tv/Sony_Yay_Telugu_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-name="Gemini TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Gemini TV HD
 https://jio.drmlive.au/jio/bpk-tv/Gemini_TV_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-name="Disney Channel HD" tvg-log"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/640px-Disney_Channel_2014_HD.png" tvg-language="Multi" tvg-type="Kids" group-title="Kids, Disney Channel HD
+https://port.yuvraj49.in/ss/index.m3u8?id=19741
