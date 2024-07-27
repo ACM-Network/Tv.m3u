@@ -2,15 +2,6 @@
   "redirects": [
     {
       "source": "/stream",
-      "destination": "https://raw.githubusercontent.com/ACM-Network/Tv.m3u/main/ACM%20Network.m3u",
-      "permanent": true
-    }
-  ]
-}
-{
-  "redirects": [
-    {
-      "source": "/stream",
       "destination": "https://bio.link/alone_spider",
       "permanent": true
     }
