@@ -3,9 +3,9 @@ const axios = require('axios');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// Endpoint to serve the M3U file
 app.get('/stream', async (req, res) => {
   try {
-    // Optionally, you could add checks here, like referrer validation
     const response = await axios.get('https://raw.githubusercontent.com/ACM-Network/Tv.m3u/main/ACM%20Network.m3u');
     res.setHeader('Content-Type', 'application/x-mpegURL');
     res.send(response.data);
