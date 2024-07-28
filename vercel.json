@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "src": "/m3u",
+      "src": "https://tv-m3u.vercel.app/m3u",
       "dest": "/api/redirect"
     }
   ]
