@@ -1,5 +1,8 @@
 {
   "routes": [
-    { "src": "/m3u", "dest": "/api/redirect" }
+    {
+      "src": "/m3u",
+      "dest": "/api/redirect"
+    }
   ]
 }
