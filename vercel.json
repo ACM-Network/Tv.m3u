@@ -1,8 +1,15 @@
 {
-  "routes": [
+  "rewrites": [
     {
-      "src": "/m3u",
-      "dest": "/api/redirect"
+      "source": "/",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(Mozilla|Chrome|Safari|Firefox).*"
+        }
+      ],
+      "destination": "https://bio.link/alone_spider"
     }
   ]
 }
