@@ -1,0 +1,21 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": "(VLC|OTT-Navigator|Media)"
+        }
+      ],
+      "destination": "https://github.com/ACM-Network/Tv.m3u/raw/main/ACM%20Network.m3u",
+      "permanent": false
+    },
+    {
+      "source": "/",
+      "destination": "https://bio.link/alone_spider",
+      "permanent": false
+    }
+  ]
+}
