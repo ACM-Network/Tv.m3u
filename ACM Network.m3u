@@ -14,7 +14,7 @@ http://103.84.57.155:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" tvg-language="Telugu, Hindi, Tamil" tvg-type="Kids" group-title="Kids", Disney Channel
 http://103.84.57.155:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-name="ETV Bal Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/ETV_Bal_Bharat.jpg" tvg-language="Multi" tvg-type="Kids" group-title="Kids", ETV Bal Bharat
-http://14.102.123.50:9080/play/a0jc
+http://103.124.251.164:28015/play/a01l/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-name="india Today" tvg-logo="https://seeklogo.com/images/I/india-today-logo-0218513CB5-seeklogo.com.png" tvg-language="Telugu" tvg-type="News" group-title="News", India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-name="Gemini Movies HD" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-11438-j9jqvyaw-v1%2FimageContent-11438-j9jqvyaw-m1.png&w=256&q=75" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Gemini Movies HD
