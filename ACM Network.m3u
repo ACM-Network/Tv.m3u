@@ -37,5 +37,5 @@ http://103.84.57.155:8000/play/a03x/index.m3u8
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd?hdnea=st=1723975276~exp=1723975876~acl=/bpk-tv/irdeto_com_Channel_405/output/*~id=1491368740~hmac=61803c5af5f02b8cadd9956be15bde8f2bbbe3b35fd3cf4c410d6bc5cf4e3a5e
 #EXTINF:-1 tvg-chno="19" tvg-name="Super Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" tvg-language="Telugu, Hindi, Tamil" tvg-type="Kids" group-title="Kids", Super Hungama
 http://103.124.251.164:28015/play/a02n/index.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" tvg-language="Telugu, Hindi, Tamil" tvg-type="Kids" group-title="Kids", Pogo
+#EXTINF:-1 tvg-chno="20" tvg-name="Pogo" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-2694-j638bugw-v1%2FimageContent-2694-j638bugw-m1.png&w=256&q=75" tvg-language="Telugu, Hindi, Tamil" tvg-type="Kids" group-title="Kids", Pogo
 http://103.84.57.155:8000/play/a03z/index.m3u8
