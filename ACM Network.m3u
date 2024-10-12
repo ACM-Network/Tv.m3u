@@ -31,7 +31,7 @@ https://jio.drmlive.au/jio/bpk-tv/Cartoon_Network_Telugu_MOB/Fallback/index.m3u8
 https://jio.drmlive.au/jio/bpk-tv/Sony_Yay_Telugu_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-name="Gemini TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Gemini TV HD
 https://jio.drmlive.au/jio/bpk-tv/Gemini_TV_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-name="Disney Junior" tvg-log"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/640px-Disney_Channel_2014_HD.png" tvg-language="Multi" tvg-type="Kids" group-title="Kids, Disney Channel HD
+#EXTINF:-1 tvg-chno="17" tvg-name="Disney Junior" tvg-log"https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-35368-jr3xz7xs-v1%2FimageContent-35368-jr3xz7xs-m1.png&w=256&q=75" tvg-language="Multi" tvg-type="Kids" group-title="Kids, Disney Junior
 http://103.124.251.164:28015/play/a02m/index.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-name="Cartoon Network Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd?hdnea=st=1723975276~exp=1723975876~acl=/bpk-tv/irdeto_com_Channel_405/output/*~id=1491368740~hmac=61803c5af5f02b8cadd9956be15bde8f2bbbe3b35fd3cf4c410d6bc5cf4e3a5e
