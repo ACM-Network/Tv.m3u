@@ -20,7 +20,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 #EXTINF:-1 tvg-chno="10" tvg-name="Gemini Movies HD" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-11438-j9jqvyaw-v1%2FimageContent-11438-j9jqvyaw-m1.png&w=256&q=75" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Gemini Movies HD
 https://livestream.sunnxt.com/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd
 #EXTINF:-1 tvg-chno="11" tvg-name="Sonic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" tvg-language="Multi" tvg-type="Kids" group-title="Kids", Sonic
-http://14.102.123.50:9080/play/a05j
+http://103.84.57.155:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Zee Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-name="ETV Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", ETV Telugu
