@@ -25,7 +25,7 @@ http://103.84.57.155:8000/play/a03y/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-name="ETV Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", ETV Telugu
 https://jio.drmlive.au/jio/bpk-tv/ETV_Telugu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-name="CN HD+ Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", CN HD+ Telugu
+#EXTINF:-1 tvg-chno="14" tvg-name="CN HD+ Telugu" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-34164-jok06xoo-v1%2FimageContent-34164-jok06xoo-m1.png&w=256&q=75" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", CN HD+ Telugu
 https://mrking.online/TECH/live.m3u8?id=1080
 #EXTINF:-1 tvg-chno="15" tvg-name="Sony Yay Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Sony Yay Telugu
 https://jio.drmlive.au/jio/bpk-tv/Sony_Yay_Telugu_MOB/Fallback/index.m3u8
