@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-chno="1" tvg-name="Zee Telugu YT" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/Zee-Telugu-logo.jpg" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Zee Telugu YT
-https://jio.drmlive.au/jio/bpk-tv/Zee_Telugu_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-name="Zee Telugu News" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/Zee-Telugu-logo.jpg" tvg-language="Telugu" tvg-type="News" group-title="News", Zee Telugu News
+https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzAzNzcyMTl9.6n9mK0R-bP5yDhDcCcCit2fspDeR0zqf5rzogN3OTVc
 #EXTINF:-1 tvg-chno="2" tvg-name="ETV Andhra Pradesh" tvg-logo="https://www.pngwing.com/en/free-png-zfnsz" tvg-language="Telugu" tvg-type="News" group-title="News", ETV Andhra Pradesh
 https://jio.drmlive.au/jio/bpk-tv/ETV_Andhra_pradesh_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-name="Star Sports 3" tvg-logo="https://banner2.cleanpng.com/20180807/jvi/kisspng-andhra-pradesh-etv-network-telugu-language-e-tv-te-5b6941746f73c3.4546867415336246924565.jpg" tvg-language="Telugu" tvg-type="News" group-title="News", Star Sports 3
