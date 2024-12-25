@@ -18,7 +18,7 @@ http://103.124.251.164:28015/play/a01l/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-name="india Today" tvg-logo="https://seeklogo.com/images/I/india-today-logo-0218513CB5-seeklogo.com.png" tvg-language="Telugu" tvg-type="News" group-title="News", India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-name="Gemini Movies HD" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-11438-j9jqvyaw-v1%2FimageContent-11438-j9jqvyaw-m1.png&w=256&q=75" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Gemini Movies HD
-https://livestream.sunnxt.com/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd
+https://amit.allinonereborn.in/jiotv/app/ts_live_899.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-name="Sonic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" tvg-language="Multi" tvg-type="Kids" group-title="Kids", Sonic
 https://amit.allinonereborn.in/jiotv/app/ts_live_1242.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Zee Cinemalu
