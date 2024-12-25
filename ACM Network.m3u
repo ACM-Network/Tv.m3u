@@ -21,7 +21,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://amit.allinonereborn.in/jiotv/app/ts_live_899.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-name="Sonic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" tvg-language="Multi" tvg-type="Kids" group-title="Kids", Sonic
 https://amit.allinonereborn.in/jiotv/app/ts_live_1242.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Zee Cinemalu
+#EXTINF:-1 tvg-chno="12" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Movies", Zee Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-name="ETV Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", ETV Telugu
 https://jio.drmlive.au/jio/bpk-tv/ETV_Telugu_MOB/Fallback/index.m3u8
