@@ -3,7 +3,7 @@
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzAzNzcyMTl9.6n9mK0R-bP5yDhDcCcCit2fspDeR0zqf5rzogN3OTVc
 #EXTINF:-1 tvg-chno="2" tvg-name="ETV Andhra Pradesh" tvg-logo="https://www.pngwing.com/en/free-png-zfnsz" tvg-language="Telugu" tvg-type="News" group-title="News", ETV Andhra Pradesh
 https://jio.drmlive.au/jio/bpk-tv/ETV_Andhra_pradesh_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-name="Star Sports 3" tvg-logo="https://banner2.cleanpng.com/20180807/jvi/kisspng-andhra-pradesh-etv-network-telugu-language-e-tv-te-5b6941746f73c3.4546867415336246924565.jpg" tvg-language="Telugu" tvg-type="News" group-title="News", Star Sports 3
+#EXTINF:-1 tvg-chno="3" tvg-name="Star Sports 3" tvg-logo="https://banner2.cleanpng.com/20180807/jvi/kisspng-andhra-pradesh-etv-network-telugu-language-e-tv-te-5b6941746f73c3.4546867415336246924565.jpg" tvg-language="Telugu" tvg-type="Sports" group-title="Sports", Star Sports 3
 https://vkvsd178.mycdn.me/hls/6577805003329.m3u8/sig/az6-JhpYZsk/srcIp/122.163.212.126/urls/185.226.53.48/expires/1722206576463/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7324859247425/id/6577805003329/6577805003329/video.m3u8?p
 #EXTINF:-1 tvg-chno="4" tvg-name="TV9 Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" tvg-language="Telugu" tvg-type="News" group-title="News", TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/pub-iotv9telcmjhcs/live_720p/chunks.m3u8
