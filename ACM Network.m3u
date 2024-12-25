@@ -9,9 +9,9 @@ https://vkvsd178.mycdn.me/hls/6577805003329.m3u8/sig/az6-JhpYZsk/srcIp/122.163.2
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/pub-iotv9telcmjhcs/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-name="NTV Telugu Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" tvg-language="Telugu" tvg-type="News" group-title="News", NTV Live Telugu
 https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/18575dac-e4a8-47dd-9f94-a5f00486517b/0.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-name="Hungama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/800px-Hungama_TV.svg.png" tvg-language="Telugu, Hindi, Tamil" tvg-type="Kids" group-title="Kids", Hungama TV
+#EXTINF:-1 tvg-chno="6" tvg-name="Hungama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/800px-Hungama_TV.svg.png" tvg-language="Multi" tvg-type="Kids" group-title="Kids", Hungama TV
 http://103.84.57.155:8000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" tvg-language="Telugu, Hindi, Tamil" tvg-type="Kids" group-title="Kids", Disney Channel
+#EXTINF:-1 tvg-chno="7" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" tvg-language="Multi" tvg-type="Kids" group-title="Kids", Disney Channel
 https://tp.yg048.workers.dev/ch/114.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-name="ETV Bal Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/ETV_Bal_Bharat.jpg" tvg-language="Multi" tvg-type="Kids" group-title="Kids", ETV Bal Bharat
 http://103.124.251.164:28015/play/a01l/index.m3u8
