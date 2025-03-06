@@ -65,5 +65,5 @@ https://starshare.live:443/live/19781978/19781978/242.ts
 https://starshare.live:443/live/19781978/19781978/9042.ts
 #EXTINF:-1 tvg-chno="33" tvg-name="Gemini Music HD" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2F200%2F-%2FGemini_Music_HD.png&w=256&q=75" tvg-language="Telugu" tvg-type="Entertainment" group-title="Music", Gemini Music HD
 https://starshare.live:443/live/19781978/19781978/213.ts
-#EXTINF:-1 tvg-chno="7" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" tvg-language="Multi" tvg-type="Kids" group-title="Kids", Disney Channel HD
+#EXTINF:-1 tvg-chno="7" tvg-name="Disney Channel HD" tvg-logo="https://i.imgur.com/FDx4LD2.jpeg" tvg-language="Multi" tvg-type="Kids" group-title="Kids", Disney Channel HD
 https://RJUniverse02-jiotv.vercel.app/api/stream?channel=4028
