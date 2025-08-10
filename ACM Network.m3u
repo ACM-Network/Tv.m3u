@@ -38,7 +38,7 @@ http://119.152.240.15:8000/play/a0cr/index.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-name="Super Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" tvg-language="Telugu, Hindi, Tamil" tvg-type="Kids" group-title="Kids", Super Hungama
 http://103.124.251.164:28015/play/a02n/index.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-name="Pogo" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-2694-j638bugw-v1%2FimageContent-2694-j638bugw-m1.png&w=256&q=75" tvg-language="Telugu, Hindi, Tamil" tvg-type="Kids" group-title="Kids", Pogo
-https://amit.allinonereborn.in/jiotv/app/ts_live_1883.m3u8
+http://116.90.120.149:8000/play/a0c8/index.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-name="Zee Cinemalu HD" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-21307-je859sm0-v1%2FimageContent-21307-je859sm0-m2.png&w=256&q=75" tvg-language="Telugu" tvg-type="Entertainment" group-title="Movies", Zee Cinemalu HD
 https://starshare.live:443/live/19781978/19781978/98896.ts
 #EXTINF:-1 tvg-chno="22" tvg-name="Mana TV" tvg-logo="https://logodix.com/logo/1602948.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Mana TV
@@ -69,6 +69,7 @@ https://starshare.live:443/live/19781978/19781978/213.ts
 http://103.141.159.236:8000/play/a0ln/index.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-name="Nick" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png" tvg-language="Multi" tvg-type="Kids" group-title="Kids", Nick
 http://103.141.159.236:8000/play/a0mp/index.m3u8
+
 
 
 
