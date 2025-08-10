@@ -10,7 +10,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/pub-iotv9telcmjh
 #EXTINF:-1 tvg-chno="5" tvg-name="NTV Telugu Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" tvg-language="Telugu" tvg-type="News" group-title="News", NTV Live Telugu
 https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/18575dac-e4a8-47dd-9f94-a5f00486517b/0.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-name="Hungama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/800px-Hungama_TV.svg.png" tvg-language="Multi" tvg-type="Kids" group-title="Kids", Hungama TV
-https://RJUniverse02-jiotv.vercel.app/api/stream?channel=4029
+http://103.141.159.236:8000/play/a0mw/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" tvg-language="Multi" tvg-type="Kids" group-title="Kids", Disney Channel
 https://allinonereborn.com/tata-tv1.php?id=931
 #EXTINF:-1 tvg-chno="8" tvg-name="ETV Bal Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/ETV_Bal_Bharat.jpg" tvg-language="Multi" tvg-type="Kids" group-title="Kids", ETV Bal Bharat
@@ -67,3 +67,4 @@ https://starshare.live:443/live/19781978/19781978/9042.ts
 https://starshare.live:443/live/19781978/19781978/213.ts
 #EXTINF:-1 tvg-chno="7" tvg-name="Disney Channel HD" tvg-logo="https://i.imgur.com/FDx4LD2.jpeg" tvg-language="Multi" tvg-type="Kids" group-title="Kids", Disney Channel HD
 https://RJUniverse02-jiotv.vercel.app/api/stream?channel=4028
+
