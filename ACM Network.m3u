@@ -33,8 +33,8 @@ http://110.39.27.16:8000/play/a018
 https://amit.allinonereborn.in/jiotv/app/ts_live_897.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-name="Disney Junior" tvg-log"https://static.wikia.nocookie.net/the-wigglesfan/images/3/35/DisneyJunior.jpg" tvg-language="Multi" tvg-type="Entertainment" group-title="Kids, Disney Junior
 https://starshare.live:443/live/19781978/19781978/207676.ts
-#EXTINF:-1 tvg-chno="18" tvg-name="Cartoon Network Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
-https://amit.allinonereborn.in/jiotv/app/ts_live_166.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-name="Cartoon Network" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network
+http://119.152.240.15:8000/play/a0cr/index.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-name="Super Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" tvg-language="Telugu, Hindi, Tamil" tvg-type="Kids" group-title="Kids", Super Hungama
 http://103.124.251.164:28015/play/a02n/index.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-name="Pogo" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-2694-j638bugw-v1%2FimageContent-2694-j638bugw-m1.png&w=256&q=75" tvg-language="Telugu, Hindi, Tamil" tvg-type="Kids" group-title="Kids", Pogo
@@ -67,6 +67,7 @@ https://starshare.live:443/live/19781978/19781978/9042.ts
 https://starshare.live:443/live/19781978/19781978/213.ts
 #EXTINF:-1 tvg-chno="7" tvg-name="Disney Channel HD" tvg-logo="https://i.imgur.com/FDx4LD2.jpeg" tvg-language="Multi" tvg-type="Kids" group-title="Kids", Disney Channel HD
 http://103.141.159.236:8000/play/a0ln/index.m3u8
+
 
 
 
